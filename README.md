@@ -13,7 +13,8 @@ This project is a simple starting point for anyone learning React Native. The ap
 
 Before you begin, ensure you have the following installed:
 
-Node.js: Download here
+Node.js
+
 React Native CLI: Install using npm install -g react-native-cli
-Xcode (for iOS development): Download from the App Store
-Android Studio (for Android development): Download here
+
+Android Studio (for Android development)
